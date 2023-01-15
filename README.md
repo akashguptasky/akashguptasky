@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Core JAVA, NODEJS**
+- 💬 Ask me about **Core JAVA, NODEJS, REACT, REDIS, MONGODB, SQL**
 
 - 📫 How to reach me **skygupta193@gmail.com**
 
