@@ -1,63 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akash%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Backend%20Developer%20•%20Problem%20Solver%20•%20Code%20Craftsman&descAlignY=58&descSize=17&descColor=a9b8ff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+I'm+Akash+Gupta+👋;Passionate+Backend+Developer+from+India+🇮🇳;Building+scalable+systems+%26+cool+stuff+⚡)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=akashguptasky&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=7B9FFF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Hey+there!+I'm+Akash+Gupta+👋;Backend+Developer+from+India+🇮🇳;Node.js+%7C+Java+%7C+React+%7C+MongoDB;Building+Scalable+%26+Robust+Systems+⚡;Open+to+Collaborate+%26+Innovate+🚀)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=akashguptasky&label=👁️+Profile+Views&color=7b9fff&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/akashguptasky?label=Followers&style=for-the-badge&color=0e75b6" />
+<img src="https://img.shields.io/github/followers/akashguptasky?label=🤝+Followers&style=for-the-badge&color=7b9fff&labelColor=1a1b27" />
 
 </div>
 
 ---
 
+<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding gif" />
+
 ## 🧑‍💻 About Me
 
-```yaml
-name       : Akash Gupta
-location   : India 🇮🇳
-role       : Backend Developer
-learning   : React Native 📱
-email      : skygupta193@gmail.com
-fun_fact   : I am funny 😄
+<br/>
+
+```javascript
+const akash = {
+  name     : "Akash Gupta",
+  location : "India 🇮🇳",
+  role     : "Backend Developer",
+  learning : "React Native 📱",
+  email    : "skygupta193@gmail.com",
+  hobbies  : ["Coding", "Problem Solving", "Being Funny 😄"],
+  askMeAbout : [
+    "Node.js", "Core Java", "React",
+    "Redis", "MongoDB", "SQL"
+  ],
+  funFact  : "I debug with console.log and I'm proud of it 😎"
+};
 ```
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+<br clear="right"/>
 
 ---
 
-## 🚀 What I'm Up To
+## 🔥 Tech Arsenal
 
-- 🌱 Currently leveling up in **React Native**
-- 💬 Ask me anything about **Core Java · Node.js · React · Redis · MongoDB · SQL**
-- 🔭 Always exploring new backend architectures and design patterns
-- 📫 Reach me at **skygupta193@gmail.com**
-- ⚡ Fun fact: **I am funny** — at least my code comments are
+<div align="center">
 
----
-
-## 🛠️ Tech Stack
-
-### 🔧 Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql,postgres" />
+### 🟢 Primary — Node.js & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts" />
 </p>
 
-### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
+### 💛 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,html,css" />
+</p>
+
+### 🗄️ Databases & Cache
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres" />
 </p>
 
 ### 🎨 Frontend
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Tools & Platforms
-<p align="left">
+### 🛠️ Dev Tools
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 </p>
+
+</div>
 
 ---
 
@@ -65,21 +79,21 @@ fun_fact   : I am funny 😄
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashguptasky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashguptasky&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akashguptasky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7b9fff&icon_color=7b9fff&text_color=c9d1d9" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashguptasky&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b9fff&ring=7b9fff&fire=ff6b6b&currStreakLabel=7b9fff" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashguptasky&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashguptasky&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=7b9fff&text_color=c9d1d9" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akashguptasky&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akashguptasky&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 </div>
 
 ---
@@ -87,40 +101,45 @@ fun_fact   : I am funny 😄
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashguptasky&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashguptasky&theme=tokyo-night&bg_color=0d1117&color=7b9fff&line=7b9fff&point=ff6b6b&area=true&hide_border=true" width="97%" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/akashguptasky/akashguptasky/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> ⚠️ **Setup tip:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your repo under `.github/workflows/snake.yml`
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/@akashindranagar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/akash_gupta9140)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/akashindranagar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skygupta193@gmail.com)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashguptasky/akashguptasky/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashguptasky/akashguptasky/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/akashguptasky/akashguptasky/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
 
+## 🌐 Find Me Online
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/@akashindranagar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/akash_gupta9140)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/akashindranagar)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skygupta193@gmail.com)
 
-**⭐ If you like my work, consider starring my repos!**
+</div>
 
-<!-- LAST_UPDATED -->🕐 Last updated: Auto-updating daily...<!-- END_UPDATED -->
+---
+
+<div align="center">
+
+### 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+**✨ Thanks for visiting! Drop a ⭐ if you like what you see.**
 
 </div>
