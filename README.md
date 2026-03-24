@@ -1,32 +1,126 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Akash Gupta</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashguptasky&label=Profile%20views&color=0e75b6&style=flat" alt="akashguptasky" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+I'm+Akash+Gupta+👋;Passionate+Backend+Developer+from+India+🇮🇳;Building+scalable+systems+%26+cool+stuff+⚡)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=akashguptasky&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/akashguptasky?label=Followers&style=for-the-badge&color=0e75b6" />
 
-- 🌱 I’m currently learning **React Native**
+</div>
 
-- 💬 Ask me about **Core JAVA, NODEJS, REACT, REDIS, MONGODB, SQL**
+---
 
-- 📫 How to reach me **skygupta193@gmail.com**
+## 🧑‍💻 About Me
 
-- ⚡ Fun fact **I am funny**
+```yaml
+name       : Akash Gupta
+location   : India 🇮🇳
+role       : Backend Developer
+learning   : React Native 📱
+email      : skygupta193@gmail.com
+fun_fact   : I am funny 😄
+```
 
-<h3 align="left">Connect with me:</h3>
+> *"First, solve the problem. Then, write the code."* – John Johnson
+
+---
+
+## 🚀 What I'm Up To
+
+- 🌱 Currently leveling up in **React Native**
+- 💬 Ask me anything about **Core Java · Node.js · React · Redis · MongoDB · SQL**
+- 🔭 Always exploring new backend architectures and design patterns
+- 📫 Reach me at **skygupta193@gmail.com**
+- ⚡ Fun fact: **I am funny** — at least my code comments are
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔧 Backend & Databases
 <p align="left">
-<a href="https://www.hackerrank.com/@akashindranagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@akashindranagar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akash_gupta9140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_gupta9140" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akashindranagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashindranagar" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql,postgres" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashguptasky&show_icons=true&locale=en" alt="akashguptasky" /></p>
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashguptasky&" alt="akashguptasky" /></p>
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashguptasky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashguptasky&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashguptasky&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akashguptasky&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashguptasky&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/akashguptasky/akashguptasky/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> ⚠️ **Setup tip:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your repo under `.github/workflows/snake.yml`
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/@akashindranagar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/akash_gupta9140)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/akashindranagar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skygupta193@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**⭐ If you like my work, consider starring my repos!**
+
+<!-- LAST_UPDATED -->🕐 Last updated: Auto-updating daily...<!-- END_UPDATED -->
+
+</div>
